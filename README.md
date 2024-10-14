@@ -28,7 +28,6 @@ The datasets used in the paper come from meteorological and air quality stations
   * matplotlib
   * darts (time series forecasting library)
   * scikit-learn
-  * optuna (for Bayesian optimization)
  
 # Installation
 To get started, clone the repository and install the necessary dependencies:
